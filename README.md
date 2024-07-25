@@ -8,7 +8,7 @@ link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/dovilo/swisstronik-perc20-mint-token.git
+git clone https://github.com/sadi94787/swisstronik-perc20-mint-token.git
 ```
 
 ```
